@@ -1,0 +1,5 @@
+left arrow
+space
+left arrow
+up arrow
+down arrow
